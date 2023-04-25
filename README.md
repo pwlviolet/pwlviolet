@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm pwl</h1>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
