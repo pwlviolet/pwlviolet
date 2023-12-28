@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a rookie developer developer in China.
+I'm a rookie developer  in China.
 
 I love animation and game, and influenced by it, I want to become a technical artist to create exquisite effects.
 
 </p>I am currently mainly focused on learning the Unity engine and three.js.
 
-skills:![Three.js Badge](https://img.shields.io/badge/Three.js-000000?logo=threedotjs)![Static Badge](https://img.shields.io/badge/Cesium-Cesium?logo=cesium&color=000000)![WebGL Badge](https://img.shields.io/badge/WebGL-990000?logo=webgl)![Static Badge](https://img.shields.io/badge/Unity-Unity?style=flat&logo=unity&logoColor=ffffff&labelColor=000000&color=ffffff&cacheSeconds=3600)![Static Badge](https://img.shields.io/badge/blender-blender?logo=blender&color=000000)
+</p>  
+
+<hr>
+
+##### **skills:**![Three.js Badge](https://img.shields.io/badge/Three.js-000000?logo=threedotjs)![Static Badge](https://img.shields.io/badge/Cesium-Cesium?logo=cesium&color=000000)![WebGL Badge](https://img.shields.io/badge/WebGL-990000?logo=webgl)![Static Badge](https://img.shields.io/badge/Unity-Unity?style=flat&logo=unity&logoColor=ffffff&labelColor=000000&color=ffffff&cacheSeconds=3600)![Static Badge](https://img.shields.io/badge/blender-blender?logo=blender&color=000000)
