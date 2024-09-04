@@ -25,4 +25,5 @@ I love animation and game, and influenced by it, I want to become a technical ar
 
 <hr>
 
-##### **skills:**![Three.js Badge](https://img.shields.io/badge/Three.js-000000?logo=threedotjs)![Static Badge](https://img.shields.io/badge/Cesium-Cesium?logo=cesium&color=000000)![WebGL Badge](https://img.shields.io/badge/WebGL-990000?logo=webgl)![Static Badge](https://img.shields.io/badge/Unity-Unity?style=flat&logo=unity&logoColor=ffffff&labelColor=000000&color=ffffff&cacheSeconds=3600)![Static Badge](https://img.shields.io/badge/blender-blender?logo=blender&color=000000)
+##### **skills:**![Three.js Badge](https://img.shields.io/badge/Three.js-000000?logo=threedotjs)![Static Badge](https://img.shields.io/badge/Cesium-Cesium?logo=cesium&color=000000)![WebGL Badge](https://img.shields.io/badge/WebGL-990000?logo=webgl)![Static Badge](https://img.shields.io/badge/Unity-Unity?style=flat&logo=unity&logoColor=ffffff&labelColor=000000&color=ffffff&cacheSeconds=3600)![Static Badge](https://img.shields.io/badge/blender-blender?logo=blender&color=000000)![Static Badge](https://img.shields.io/badge/houdini-brightgreen?style=flat&logo=houdini&logoColor=%23FF4713)
+
